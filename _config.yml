@@ -1,6 +1,6 @@
 # Site settings
 title:       V for Verity
-email:       
+email:       vanessa.cfau@gmail.com
 author:      Vanessa Z
 description: "."
 baseurl:     ""
@@ -106,7 +106,7 @@ text:
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    /:tittle
+permalink:    /:title
 paginate:     4
 sass:
   style: compressed
